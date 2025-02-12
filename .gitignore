@@ -1,0 +1,25 @@
+# Ignore target folder (compiled files)
+target/
+
+# Ignore Maven Wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore IntelliJ / Eclipse / VS Code project files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore dependencies
+dependency-reduced-pom.xml
